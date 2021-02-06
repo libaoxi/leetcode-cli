@@ -5,7 +5,7 @@
   "engines": {
     "node": ">=4"
   },
-  "main": "./lib/cli.js",
+  "main": "lib/cli.js",
   "bin": {
     "leetcode": "./bin/leetcode"
   },
