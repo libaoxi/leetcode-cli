@@ -1,10 +1,11 @@
 {
-  "name": "vsc-leetcode-cli",
+  "name": "@baoxi/vsc-leetcode-cli",
   "version": "2.7.0",
   "description": "A cli tool to enjoy leetcode!",
   "engines": {
     "node": ">=4"
   },
+  "main": "./lib/cli.js",
   "bin": {
     "leetcode": "./bin/leetcode"
   },
@@ -40,8 +41,8 @@
     "tool"
   ],
   "author": {
-    "name": "Eric Wang",
-    "email": "skygragon@gmail.com"
+    "name": "libaoxi",
+    "email": "i@libaoxi.com"
   },
   "license": "MIT",
   "bugs": {
