@@ -50,7 +50,7 @@
   },
   "homepage": "https://github.com/leetcode-tools/leetcode-cli#readme",
   "dependencies": {
-    "ansi-styles": "5.1.0",
+    "ansi-styles": "3.2.1",
     "cheerio": "1.0.0-rc.5",
     "he": "1.2.0",
     "mkdirp": "^1.0.4",
