@@ -1,12 +1,12 @@
 module.exports = {
     "env": {
       "browser": false,
-      "es6": true,
+      "es7": true,
       "mocha": true,
       "node": true
     },
     "extends": [
-      "google",
+      "airbnb-base",
       "eslint:recommended"
     ],
     "rules": {
